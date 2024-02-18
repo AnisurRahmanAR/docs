@@ -33,4 +33,5 @@ numbers.add(5);
 Output:
 print(numbers); // Output: [1, 2, 3, 4, 5]
 
-In this example, the '.add()' method is used to add the integer '5' to the end of the 'numbers' list.
+In this example, the '.add()' method is used to add the integer '5' to the end of the 'numbers' list. 
+When you created the original list, you will find that there was only numbers going up to 4. With the 'add. method', you can add whichever integer stated to the end of the list.
